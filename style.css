@@ -1,0 +1,32 @@
+
+*{
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+   background: #333;
+   color: #fff;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 15%;
+}
+.timeoptions i{
+   display: block;
+   padding-top: 6px;
+   color: gray;
+   align-items: center;
+}
+.mainDiv p {
+    align-items: center;
+    font-size: 50px;
+    margin-left: 50px;
+    margin-top: -60px;
+}
+.timeHolder{
+    border: 2px solid #fff;
+    padding: 100px;
+    border-radius: 8px;
+     box-shadow: -8px -4px 93px 4px yellow;
+}
